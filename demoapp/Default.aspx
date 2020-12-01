@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a a first application from Mano
+            This is a a first application from Manoaran Thambi
         </div>
     </form>
 </body>
